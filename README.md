@@ -13,4 +13,4 @@ Nisi nisi deserunt eu ex qui irure. Deserunt, eu ex qui irure. Qui irure nostrud
 
 Non proident aliquip laborum ex, laboris sunt. $\boldsymbol{u} = \sum \frac{\langle \boldsymbol{u}, \boldsymbol{e}_i \rangle}{\cos \varphi}\boldsymbol{e}_i$.
 
-$$ \iint \iint_S \boldsymbol{F}\.\mathrm{d}\boldsymbol{S}= \iint\limits_S \langle \boldsymbol{F}, \boldsymbol{n} \rangle \mathrm{d}S $$
+$$ \iint \iint_S \boldsymbol{F}\mathrm{d}\boldsymbol{S}= \iint\limits_S \langle \boldsymbol{F}, \boldsymbol{n} \rangle \mathrm{d}S $$
