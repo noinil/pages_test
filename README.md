@@ -14,3 +14,12 @@ Nisi nisi deserunt eu ex qui irure. Deserunt, eu ex qui irure. Qui irure nostrud
 Non proident aliquip laborum ex, laboris sunt. $\boldsymbol{u} = \sum \frac{\langle \boldsymbol{u}, \boldsymbol{e}_i \rangle}{\cos \varphi}\boldsymbol{e}_i$.
 
 $$ \iint \iint_S \boldsymbol{F}\mathrm{d}\boldsymbol{S}= \iint\limits_S \langle \boldsymbol{F}, \boldsymbol{n} \rangle \mathrm{d}S $$
+
+
+
+<!-- Add this to the top or bottom -->
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
