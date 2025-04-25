@@ -1,4 +1,4 @@
-
+enable_mathjax: true
 math_engine: mathjax
 usemath: true
 
