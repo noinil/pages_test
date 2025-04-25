@@ -14,8 +14,10 @@ navigation:
     url: /project_1/
 
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: beautiful-jekyll
 plugins:
+  - jekyll-remote-theme
   - jekyll-include
 include:
   - _includes/head-custom.html
