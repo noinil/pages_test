@@ -2,6 +2,17 @@
 math_engine: mathjax
 usemath: true
 
+title: My Great Website
+description: A cool website with nothing
+# logo: /assets/img/logo.png
+
+# navigation bar
+navigation:
+  - title: Home
+    url: /
+  - title: Project 1
+    url: /project_1/
+
 
 theme: jekyll-theme-cayman
 plugins:
