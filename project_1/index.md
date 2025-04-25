@@ -3,9 +3,9 @@ layout: default
 title: Project 1
 ---
 
-# 项目 1
+# Project 1
 
-这里是我的第一个项目。
+Hi, here is my first project.
 
-![演示图](../assets/img/project1_demo.png)
+![This is a demo](../assets/img/project1_demo.png)
 
