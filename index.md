@@ -22,3 +22,34 @@ Non proident aliquip laborum ex, laboris sunt. $\boldsymbol{u} = \sum \frac{\lan
 $$ \iint \iint_S \boldsymbol{F}\mathrm{d}\boldsymbol{S}= \iint\limits_S \langle \boldsymbol{F}, \boldsymbol{n} \rangle \mathrm{d}S $$
 
 - [Project 1](project_1/)
+
+
+
+<div class="card-container">
+  <a href="/project1_/" class="card">Project 1</a>
+</div>
+
+<style>
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+  margin-top: 2em;
+}
+
+.card {
+  padding: 1em 2em;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 1.2em;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  background-color: #e0f0ff;
+  transform: scale(1.05);
+}
+</style>
