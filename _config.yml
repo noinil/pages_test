@@ -15,8 +15,8 @@ navigation:
     url: /project_1/
 
 
-# theme: jekyll-theme-cayman
-remote_theme: daattali/beautiful-jekyll@master
+theme: jekyll-theme-cayman
+# remote_theme: daattali/beautiful-jekyll@master
 plugins:
   - jekyll-remote-theme
   - jekyll-include
