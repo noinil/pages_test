@@ -13,6 +13,7 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 toc: true
+# mathjax: true
 ---
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
@@ -32,15 +33,10 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 ## Demo Pages
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+In line equation $E=mc^2$ and block equation:
+$$ x^2 + y^2 = R^2 $$
 
-For even more demo pages check the [posts archive][year-archive].
-
+Another equation:
+$$
+\int_0^1 x^2 \, dx = \frac{1}{3}
+$$
